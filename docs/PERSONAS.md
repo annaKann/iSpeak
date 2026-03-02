@@ -4,4 +4,4 @@
 
 [Overwhelmed_College_Student](https://docs.google.com/presentation/d/1aKfdopUmBsUM07MTt3M5efaMWXiqmJ5GPo39AZsx_-Y/edit?usp=sharing)
 
-[Busy, Working Professional] (https://docs.google.com/presentation/d/1JRkzABgwwHgJOCroZgqhiomxz-WRWeZnA3iJDVVKZf8/edit?usp=sharing)
+[Busy, Working Professional](https://docs.google.com/presentation/d/1JRkzABgwwHgJOCroZgqhiomxz-WRWeZnA3iJDVVKZf8/edit?usp=sharing)
