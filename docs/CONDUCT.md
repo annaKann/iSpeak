@@ -16,29 +16,27 @@ Each team member is expected to contribute equitably to assigned work. While con
 We also recognize that team members have academic and personal responsibilities outside of this project. If a scheduling conflict (such as an exam) arises, it must be communicated well in advance so that responsibilities can be redistributed fairly and deadlines can still be met.
 
 
-### Participation
-
 
 
 ## Meeting times and locations 
-
+Meetings outside of class will be held on Zoom, unless the task at hand requires an in-person meeting. Communication about meetings will be done over the text group chat.
 
 
 
 ### Agenda and Minutes
-
+Each meeting should have an agenda of tasks to be discussed or completed during the meeting. Team members will rotate taking meeting notes regarding goals of the meeting and what was successfully completed. 
 
 
 ### Promptness 
-
+Each team member should arrive to the meeting place 3-5 minutes before the scheduled start of the meeting. If a team member is going to be late, they are required to comminucate with the group as soon as possible. 
 
 
 
 ### Conversational courtesies
+Everyone is expected to contribute to conversations respectufully. Everyone should listen to *understand* what their fellow team members are saying, rather than to *respond* to what was said. Interupting others will not be tolerated. 
 
 
 
-
-### Enforement & Feedback 
-
+### Enforcement & Feedback 
+Feedback should be given constructively, and is open to discussion. Team members should listen to other perspectives and come to a consensus on the best approach to a problem. 
 
