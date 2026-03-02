@@ -43,4 +43,3 @@ Feedback should be given constructively, and is open to discussion. Team members
 ### Signatures 
 Anna Numme
 Korinne Toliver
-Mustaan Mogaji-Oleolo
