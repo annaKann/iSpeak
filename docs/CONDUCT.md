@@ -41,4 +41,4 @@ Everyone is expected to contribute to conversations respectufully. Everyone shou
 Feedback should be given constructively, and is open to discussion. Team members should listen to other perspectives and come to a consensus on the best approach to a problem. 
 
 ### Signatures 
-
+Anna Numme
