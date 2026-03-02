@@ -35,6 +35,9 @@ Each team member should arrive to the meeting place 3-5 minutes before the sched
 ### Conversational courtesies
 Everyone is expected to contribute to conversations respectufully. Everyone should listen to *understand* what their fellow team members are saying, rather than to *respond* to what was said. Interupting others will not be tolerated. 
 
+## Signatures 
+
+
 
 
 ### Enforcement & Feedback 
