@@ -5,5 +5,5 @@
   - Log Custom Churn Events: Identify actions that indicate churn (e.g., clicking "Delete Account" or canceling a subscription). Use the "Log Event" action in FlutterFlow to send a user_churned event to Firebase Analytics.
 
 - **Metric 2: Number of Registered Users**
-- Track User Login time: In Firebase user collection, we are able to see the time that a user logs into the app itself.
-- Track new Users weekly: For a set amount of weeks, identify how many new users on average register for the app based off of features we've tested on (rating the app, etc)
+  - Track User Login time: In Firebase user collection, we are able to see the time that a user logs into the app itself.
+  - Track new Users weekly: For a set amount of weeks, identify how many new users on average register for the app based off of features we've tested on (rating the app, etc)
